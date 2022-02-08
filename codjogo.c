@@ -18,6 +18,7 @@
             printf(".\n");
             printf(".\n");
             printf(".\n");
+            /*espaços criados para o player 2 não conseguir ver a senha criada*/
 
         for (cont=1; cont <=5; cont++){
             printf("Player 2 : Tente advinhar o valor da senha : \n");
